@@ -1,0 +1,26 @@
+.title{
+    font-size: larger;
+    text-align: center;
+}
+.red{
+    color:red;
+    border-radius: 5px;
+    background-color: bisque;
+    height:30px;
+    width:400px;
+    margin:auto;
+    margin-top: 20px;
+}
+.image{
+    width:500px;
+    height:300px;
+    margin-bottom: 20px;
+    border:solid 1px rgba(17, 16, 16, 0.39);
+    border-radius: 5px;
+}
+.positionLeft{
+margin-right:500px;
+}
+.positionRight{
+    margin-left:500px;
+    }
